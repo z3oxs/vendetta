@@ -1,0 +1,11 @@
+{
+    "window": {
+        "background_color": "0.1, 0.1, 0.1",
+        "opacity": 0.4
+    },
+    "commands": {
+        "shutdown": "poweroff",
+        "logout": "i3-msg exit",
+        "reboot": "reboot"
+    }
+}
